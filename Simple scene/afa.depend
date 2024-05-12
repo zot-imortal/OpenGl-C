@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1714850479 source:d:\work example\afa\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
+1714850056 source:d:\work example\afa\camera.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
